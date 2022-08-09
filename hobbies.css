@@ -1,0 +1,55 @@
+
+.background{
+    background-color: aquamarine;
+}
+
+#img1
+{
+height: 350px;
+}
+
+#img2_1
+{
+    width: 300px;
+    height: 200px;
+
+    
+}
+
+#img2_2
+{
+    width: 300px;
+    height: 200px;
+
+    padding-right: 32.5px;
+    padding-left: 32.5px;
+}
+
+#img2_3
+{
+    width: 300px;
+    height: 200px;
+}
+
+#img3_1
+{
+    width: 150px;
+    height: 200px;
+
+    
+}
+
+#img3_2
+{
+    width: 550px;
+    height: 350px;
+
+    padding-right: 60px;
+    padding-left: 60px;
+}
+
+#img3_3
+{
+    width: 225px;
+    height: 200px;
+}

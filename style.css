@@ -1,0 +1,62 @@
+.background{
+    background-color: aquamarine;
+}
+
+#main_hd
+{
+    width: 350px;
+    height: 75px;
+    background-color: cornflowerblue;
+
+    border-radius: 20px;
+}
+
+#header
+{
+    padding-top: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+}
+
+#img
+{
+    width:155px ;
+    border-radius: 30px;
+
+}
+
+#buttons
+{
+    background-color:darkblue;
+
+    width: 650px;
+    height: 100px;
+
+    border-radius: 30px;
+}
+
+#first_four
+{
+    padding-top: 15px;
+}
+
+#intro
+{
+height: 70px;
+}
+
+#hobbies
+{
+height: 70px;
+}
+
+#games
+{
+height: 70px;
+}
+
+#travels
+{
+height: 70px;
+}
+
